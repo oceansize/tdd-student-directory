@@ -20,3 +20,18 @@ end
 def add_student_to_array(new_student)
   students_list << new_student
 end
+
+def delete_student(student)
+  students_list.delete(student)
+end
+
+
+
+
+
+
+
+
+
+
+
